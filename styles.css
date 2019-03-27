@@ -1,0 +1,38 @@
+body {
+    background: url("https://uploads.scratch.mit.edu/users/avatars/23418364.png");
+}
+
+h1 {
+    color:white;
+    border: 10px dotted yellow;
+    display: flex;
+  justify-content: center;
+}
+
+.input1 {
+  display: flex;
+  justify-content: center;
+}
+
+.input2{
+  display: flex;
+  justify-content: center;
+}
+
+.input3{
+  display: flex;
+  justify-content: center;
+}
+
+.questions {
+ color:grey;
+display: flex;
+  justify-content: center;
+border: 5px black;
+}
+
+.answerbutton {
+    display: flex;
+  justify-content: center;
+  margin: 100px;
+}
